@@ -1,0 +1,2 @@
+# --- Use CRLF line endings for the Windows launcher files (cmd can misbehave on lines that end in LF) ---
+*.bat text eol=crlf
